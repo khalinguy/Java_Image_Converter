@@ -193,6 +193,7 @@ public class ImageViewer extends Application {
     }
 
     Image generateImage() {
+    	
         return new Image(HOME_IMAGE);
     }
 
